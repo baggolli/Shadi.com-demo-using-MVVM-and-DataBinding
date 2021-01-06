@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShadiDemo</string>
+    <string name="text_decline">Decline</string>
+    <string name="text_accept">Accept</string>
+    <string name="space">,&#160;</string>
+    <string name="declined_message">Member Declined</string>
+    <string name="accepted_message">Member Accepted</string>
+</resources>
